@@ -18,15 +18,15 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 
 ### Módulo 1 [Primeiros contatos com computadores e internet]
 
-1. [(09/08/2017) Apresentação: ligando o computador, mouse, teclado e monitor.](https://guibueno.github.com/letramento-digital/modulo1-aula1.html)
-2. [(16/08/2017) Usando o teclado: calculadora e editores de texto.](https://guibueno.github.com/letramento-digital/modulo1-aula2.html)
-3. [(23/08/2017) Medo versus cuidado, práticas de digitação navegadores](https://guibueno.github.com/letramento-digital/modulo1-aula3.html)
-4. [(30/08/2017) Sistemas operacionais, navegadores, arquivos e pastas](https://guibueno.github.com/letramento-digital/modulo1-aula4.html)
+1. (09/08/2017) Apresentação: ligando o computador, mouse, teclado e monitor. [Slides](modulo1-aula1.html) [PDF](pdfs/1-1.compressed.pdf)
+2. (16/08/2017) Usando o teclado: calculadora e editores de texto. [Slides](modulo1-aula2.html) [PDF](pdfs/1-2.compressed.pdf)
+3. (23/08/2017) Medo versus cuidado, práticas de digitação navegadores. [Slides](modulo1-aula3.html) [PDF](pdfs/1-3.compressed.pdf)
+4. (30/08/2017) Sistemas operacionais, navegadores, arquivos e pastas. [Slides](modulo1-aula4.html) [PDF](pdfs/1-4.compressed.pdf)
 5. (BÔNUS) [Saberes Coletivos](saberes-coletivos.html)
 
 ### Módulo 2
-1. [(06/09/2017) O curso, a internet, visitando websites, criando um e-mail.](https://guibueno.github.com/letramento-digital/modulo2-aula1.html)
-2. [(13/09/2017) Enviando e recebendo e-mails, buscadores, Google e Wikipedia.](https://guibueno.github.com/letramento-digital/modulo2-aula2.html)
+1. (06/09/2017) O curso, a internet, visitando websites, criando um e-mail. [Slides](modulo2-aula1.html) [PDF](pdfs/2-1.compressed.pdf)
+2. (13/09/2017) Enviando e recebendo e-mails, buscadores, Google e Wikipedia. [Slides](modulo2-aula2.html) [PDF](pdfs/2-2.compressed.pdf)
 
 ## Formulários
 1. [(30/08/2017) Conclusão do Módulo 1](https://docs.google.com/forms/d/e/1FAIpQLSexIWI4bWgRLxssvA3UxJD53MC4Oqn28K_AwcJZ3YbIZ-Z4xw/viewform#responses)
