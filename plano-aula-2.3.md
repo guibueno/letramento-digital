@@ -38,3 +38,5 @@ https://oglobo.globo.com/sociedade/tecnologia/jogos-on-line-ajudam-idosos-nas-ta
 - Conexão wifi
 - Conexão à cabo
 - Conexão 3G/4G
+
+- Akinator
