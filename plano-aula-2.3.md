@@ -23,7 +23,6 @@
 ## Buscadores
 - Google Maps
 - Google Street View
-- Youtube
 - Hemeroteca digital da Biblioteca Nacional - RJ.
 
 ## Áreas

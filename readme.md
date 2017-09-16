@@ -24,10 +24,11 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 4. (30/08/2017) Sistemas operacionais, navegadores, arquivos e pastas. [(Slides)](modulo1-aula4.html) [(PDF)](pdfs/1-4.compressed.pdf)
 5. (BÔNUS) [Saberes Coletivos](saberes-coletivos.html)
 
-### Módulo 2
+### Módulo 2 [É hora de navegar!]
 1. (06/09/2017) O curso, a internet, visitando websites, criando um e-mail. [(Slides)](modulo2-aula1.html) [(PDF)](pdfs/2-1.compressed.pdf)
 2. (13/09/2017) Acessando o BOL, buscadores e pesquisa de imagens. [(Slides)](modulo2-aula2.html) [(PDF)](pdfs/2-2.compressed.pdf)
-3. (13/09/2017) Enviando e recebendo e-mails, Web2.0, Youtube, Wikipedia. [(Slides)](modulo2-aula3.html) [(PDF)](pdfs/2-3.compressed.pdf)
+3. (20/09/2017) Enviando e recebendo e-mails, Web2.0, Youtube, Wikipedia. [(Slides)](modulo2-aula3.html) [(PDF)](pdfs/2-3.compressed.pdf)
+4. (27/09/2017) Enviando e recebendo e-mails, Web2.0, Youtube, Wikipedia
 
 ## Formulários
 1. [(30/08/2017) Conclusão do Módulo 1](https://docs.google.com/forms/d/e/1FAIpQLSexIWI4bWgRLxssvA3UxJD53MC4Oqn28K_AwcJZ3YbIZ-Z4xw/viewform#responses)
