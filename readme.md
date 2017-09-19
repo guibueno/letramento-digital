@@ -22,7 +22,7 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 2. (16/08/2017) Usando o teclado: calculadora e editores de texto. [(Slides)](modulo1-aula2.html) [(PDF)](pdfs/1-2.compressed.pdf)
 3. (23/08/2017) Medo versus cuidado, práticas de digitação navegadores. [(Slides)](modulo1-aula3.html) [(PDF)](pdfs/1-3.compressed.pdf)
 4. (30/08/2017) Sistemas operacionais, navegadores, arquivos e pastas. [(Slides)](modulo1-aula4.html) [(PDF)](pdfs/1-4.compressed.pdf)
-5. (BÔNUS) [Saberes Coletivos](saberes-coletivos.html)
+5. (BÔNUS) [Saberes Coletivos](saberes-coletivos-modulo1.html)
 6. [(30/08/2017) Conclusão do Módulo 1](https://docs.google.com/forms/d/e/1FAIpQLSexIWI4bWgRLxssvA3UxJD53MC4Oqn28K_AwcJZ3YbIZ-Z4xw/viewform#responses)
 
 ### Módulo 2 [É hora de navegar!]
