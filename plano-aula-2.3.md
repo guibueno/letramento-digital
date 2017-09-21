@@ -3,11 +3,7 @@
 
 ## Módulo 3
 
-## Áreas
-- Diversão, entretenimento jogos
-- Informação
-- Comunicação
-- Serviços
+
 
 # Termos
 - Conexão wifi

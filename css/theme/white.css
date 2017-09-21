@@ -317,3 +317,6 @@ BY GUI
   padding-bottom: 15px !important;
   padding-left: 15px !important;
 }
+.tr-highlight {
+  background: #CCC;
+}
