@@ -28,8 +28,8 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 ### Módulo 2 [É hora de navegar!]
 1. (06/09/2017) O curso, a internet, visitando websites, criando um e-mail. [(Slides)](modulo2-aula1.html) [(PDF)](pdfs/2-1.compressed.pdf)
 2. (13/09/2017) Acessando o BOL, buscadores e pesquisa de imagens. [(Slides)](modulo2-aula2.html) [(PDF)](pdfs/2-2.compressed.pdf)
-3. (20/09/2017) Enviando e recebendo e-mails, Web2.0, Youtube, Wikipedia. [(Slides)](modulo2-aula3.html) [(PDF)](pdfs/2-3.compressed.pdf)
-4. (27/09/2017)
+3. (20/09/2017) Práticas em pesquisas no Google, Google Maps, Google Street View. [(Slides)](modulo2-aula3.html) [(PDF)](pdfs/2-3.compressed.pdf)
+4. (27/09/2017) Enviando e-mails, jogos online, Web2.0, Youtube, Wikipedia. [(Slides)](modulo2-aula4.html) [(PDF)](pdfs/2-4.compressed.pdf)
 6. [(27/09/2017) Conclusão do Módulo 2](https://goo.gl/forms/zzVrrZu8PlVlGOWN2)
 
 
