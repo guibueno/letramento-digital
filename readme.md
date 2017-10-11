@@ -32,6 +32,9 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 4. (27/09/2017) Enviando e-mails, jogos online, Web2.0, Youtube, Wikipedia. [(Slides)](modulo2-aula4.html) [(PDF)](pdfs/2-4.compressed.pdf)
 6. [(27/09/2017) Conclusão do Módulo 2](https://goo.gl/forms/zzVrrZu8PlVlGOWN2)
 
+### Módulo 3 [Redes sociais & Smartphones]
+1. (04/10/2017) Apresentação, web2.0, blogs e wikipedia. [(Slides)](modulo3-aula1.html)
+2. (11/10/2017) Smartphones e YouTube. [(Slides)](modulo3-aula1.html)
 
 ---
 
