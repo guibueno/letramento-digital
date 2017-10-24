@@ -23,18 +23,21 @@ Sou formado em Midialogia pela Unicamp e Mestre em Design de Mídias Educativas 
 3. (23/08/2017) Medo versus cuidado, práticas de digitação navegadores. [(Slides)](modulo1-aula3.html) [(PDF)](pdfs/1-3.compressed.pdf)
 4. (30/08/2017) Sistemas operacionais, navegadores, arquivos e pastas. [(Slides)](modulo1-aula4.html) [(PDF)](pdfs/1-4.compressed.pdf)
 5. (BÔNUS) [Saberes Coletivos](saberes-coletivos-modulo1.html)
-6. [(30/08/2017) Conclusão do Módulo 1](https://docs.google.com/forms/d/e/1FAIpQLSexIWI4bWgRLxssvA3UxJD53MC4Oqn28K_AwcJZ3YbIZ-Z4xw/viewform#responses)
+6. [(30/08/2017) Formulário Conclusão do Módulo 1](https://docs.google.com/forms/d/e/1FAIpQLSexIWI4bWgRLxssvA3UxJD53MC4Oqn28K_AwcJZ3YbIZ-Z4xw/viewform#responses)
 
 ### Módulo 2 [É hora de navegar!]
 1. (06/09/2017) O curso, a internet, visitando websites, criando um e-mail. [(Slides)](modulo2-aula1.html) [(PDF)](pdfs/2-1.compressed.pdf)
 2. (13/09/2017) Acessando o BOL, buscadores e pesquisa de imagens. [(Slides)](modulo2-aula2.html) [(PDF)](pdfs/2-2.compressed.pdf)
 3. (20/09/2017) Práticas em pesquisas no Google, Google Maps, Google Street View. [(Slides)](modulo2-aula3.html) [(PDF)](pdfs/2-3.compressed.pdf)
 4. (27/09/2017) Enviando e-mails, jogos online, Web2.0, Youtube, Wikipedia. [(Slides)](modulo2-aula4.html) [(PDF)](pdfs/2-4.compressed.pdf)
-6. [(27/09/2017) Conclusão do Módulo 2](https://goo.gl/forms/zzVrrZu8PlVlGOWN2)
+5. [(27/09/2017) Formulário Conclusão do Módulo 2](https://goo.gl/forms/zzVrrZu8PlVlGOWN2)
 
 ### Módulo 3 [Redes sociais & Smartphones]
-1. (04/10/2017) Apresentação, web2.0, blogs e wikipedia. [(Slides)](modulo3-aula1.html)
-2. (11/10/2017) Smartphones e YouTube. [(Slides)](modulo3-aula1.html)
+1. (04/10/2017) Apresentação, web2.0, blogs e wikipedia. [(Slides)](modulo3-aula1.html) [(PDF)](pdfs/3-1.compressed.pdf)
+2. (11/10/2017) Introdução aos Smartphones. [(Slides)](modulo3-aula2.html) [(PDF)](pdfs/3-2.compressed.pdf)
+3. (18/10/2017) Introdução ao WhatsApp. *(Sem slides)*
+4. (25/10/2017) Finalização do curso: WhatsApp, Facebook, Youtube. [(Slides)](modulo3-aula4.html) [(PDF)](pdfs/3-4.compressed.pdf)
+6. [(25/10/2017) Formulário Conclusão do Módulo 3](https://goo.gl/forms/O89yldSxtqaHywOI2)
 
 ---
 
